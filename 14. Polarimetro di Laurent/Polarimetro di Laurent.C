@@ -5,7 +5,6 @@
 
 vector<float> recursiveFitHistogramWithGaussian1(TCanvas * CANVAS, vector<float> DATA, string TITLE, string X_AXIS_LABEL, float BIN_WIDTH, int N_OF_SIGMAS, float FROM, float TO)
 {
-
 	std::cout << endl << "C A L L E D" << endl << endl;
 
 	float DATA_min = *min_element(begin(DATA), end(DATA));
