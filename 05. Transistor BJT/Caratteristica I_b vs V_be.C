@@ -41,7 +41,6 @@ void Ib_vs_Vbe()
 	}
 
 
-
 	//Vce = 5(V)
 	//V
 	//Amprobe 37XR-A
@@ -62,7 +61,6 @@ void Ib_vs_Vbe()
 	{
 		sIb_5[i] = Ib_5[i] * 0.005 + 10 * 0.1;
 	}
-
 
 
 	//Vce = 6e5(V)
@@ -106,7 +104,6 @@ void Ib_vs_Vbe()
 	gIbVbe_5->SetMarkerStyle(20);
 	gIbVbe_5->SetLineColor(3);
 	mg->Add(gIbVbe_5);
-
 
 	TGraphErrors * gIbVbe_6e5 = new TGraphErrors(nmisure, Vbe_6e5, Ib_6e5, sVbe_6e5, sIb_6e5);
 	gIbVbe_6e5->SetMarkerSize(0.4);
