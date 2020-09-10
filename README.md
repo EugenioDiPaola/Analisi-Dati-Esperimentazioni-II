@@ -1,4 +1,4 @@
-Analisi dati in C++ con il framework ROOT degli dei dati raccolti negli esperimenti di laboratorio del corso di Esperimentazioni II.
+Analisi in C++ con il framework ROOT dei dati raccolti negli esperimenti di laboratorio del corso di Esperimentazioni II.
 
 I file e le cartelle più esemplicativi sono indicati con un *.
 (i file sono indicati con estensione .C perchè ROOT funziona così, ma il codice è in C++)
