@@ -4,7 +4,7 @@ Ho indicato con un * le cartelle e i file più esemplificativi.
 
 (I file sono indicati con estensione .C perchè ROOT richiede di salvare i file così, ma il codice è in C++).
 
-Di seguito alcuni esempi di grafici di fit in output dal codice ROOT:
+Di seguito alcuni esempi di grafici di fit e plot in output dal codice ROOT:
 
 ![alt text](https://github.com/EugenioDiPaola/Analisi-Dati-Esperimentazioni-II/blob/master/cattura%20fit.PNG)
 
