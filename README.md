@@ -2,7 +2,7 @@ Analisi in C++ con il framework ROOT dei dati raccolti negli esperimenti di labo
 
 Ho indicato con un * le cartelle e i file più esemplificativi.
 
-I file sono indicati con estensione .C perchè ROOT richiede si salvare i file così, ma il codice è in C++.
+(I file sono indicati con estensione .C perchè ROOT richiede di salvare i file così, ma il codice è in C++).
 
 Di seguito alcuni esempi di grafici di fit in output dal codice ROOT:
 
