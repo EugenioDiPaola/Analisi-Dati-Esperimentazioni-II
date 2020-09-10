@@ -192,8 +192,7 @@ void lampadina()
 
 	for(int j = 0; j < nmisure; ++j)
 	{//Amprobe 37XR-A
-
-//V
+	//V
 		if(V[j] < 1)               sV[j] = V[j] * 0.001 + 5 * 0.0001;
 		if(V[j] >= 1 && V[j] < 10) sV[j] = V[j] * 0.001 + 5 * 0.001;
 		if(V[j] >= 10)             sV[j] = V[j] * 0.001 + 5 * 0.01;
