@@ -6,7 +6,7 @@ Il corso è di gruppo ma tutto il codice è stato scritto da me.
 
 (I file sono indicati con estensione .C perchè ROOT richiede di salvare i file così, ma il codice è in C++).
 
-Di seguito alcuni esempi di grafici di fit e plot in output dal codice ROOT:
+Di seguito alcuni esempi di grafici di fit e plot in output dal codice:
 
 ![alt text](https://github.com/EugenioDiPaola/Analisi-Dati-Esperimentazioni-II/blob/master/cattura%20fit.PNG)
 
