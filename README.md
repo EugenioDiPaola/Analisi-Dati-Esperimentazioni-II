@@ -4,3 +4,5 @@ si raccolgono dei dati e si analizzano con ROOT(), framework in C++ sviluppato d
 
 I file più esemplicativi sono indicati con un *.\
 
+![alt text](https://github.com/EugenioDiPaola/Analisi-Dati-Esperimentazioni-II/blob/master/cattura%20fit.PNG)
+
