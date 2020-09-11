@@ -2,7 +2,7 @@ Analisi in C++ con il framework ROOT dei dati raccolti negli esperimenti di labo
 
 Ho indicato con un * le cartelle e i file più esemplificativi.
 
-Il corso è di gruppo ma tutto il codice è stato scritto da me.
+Il laboratorio è svolto in gruppi da tre persone ma tutto il codice è stato scritto da me.
 
 (I file sono indicati con estensione .C perchè ROOT richiede di salvare i file così, ma il codice è in C++).
 
