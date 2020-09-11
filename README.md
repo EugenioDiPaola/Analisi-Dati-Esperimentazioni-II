@@ -8,9 +8,9 @@ Il laboratorio è svolto in gruppi da tre persone ma tutto il codice è stato sc
 
 Di seguito alcuni esempi di grafici e fit dei dati in output dal codice:
 
-![alt text](https://github.com/EugenioDiPaola/Analisi-Dati-Esperimentazioni-II/blob/master/cattura%20fit.PNG)
-
 ![alt text](https://github.com/EugenioDiPaola/Analisi-Dati-Esperimentazioni-II/blob/master/04.%20Filtri%20RLC/Grafici%20in%20output%20dal%20codice/Fit%20Filtro%20passa%20banda%202.PNG?raw=true)
+
+![alt text](https://github.com/EugenioDiPaola/Analisi-Dati-Esperimentazioni-II/blob/master/03.%20Filtri%20RC/Grafici%20in%20output%20dal%20codice/Fit%20Filtro%20passa%20alto.PNG?raw=true)
 
 ![alt text](https://github.com/EugenioDiPaola/Analisi-Dati-Esperimentazioni-II/blob/master/14.%20Polarimetro%20di%20Laurent/Grafici%20in%20output%20dal%20codice/Fit%20Polarimetro%20di%20Laurent%201.PNG?raw=true)
 
